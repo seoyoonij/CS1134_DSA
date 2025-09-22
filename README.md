@@ -1,2 +1,2 @@
-# CS1134_DSA_
+# CS1134_DSA
 Data Structures and Algorithms @NYU Tandon
